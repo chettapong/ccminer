@@ -1,4 +1,4 @@
-AC_INIT([ccminer], [2.2.5], [], [ccminer], [http://github.com/tpruvot/ccminer])
+AC_INIT([gardenminer], [1.0.0], [], [gardenminer], [https://github.com/chettapong/ccminer])
 
 AC_PREREQ([2.59c])
 AC_CANONICAL_SYSTEM
